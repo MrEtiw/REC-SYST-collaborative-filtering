@@ -15,7 +15,6 @@ Homework for Montreal Polytechnique's class *LOG6308: Recommendation Systems* pa
 
 **LANGUAGES / TECH / CONCEPTS**: 
 - R
-- user-user
 - item-item collaborative filtering
 - user-user collaborative filtering
 - k-means
