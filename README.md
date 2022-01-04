@@ -22,4 +22,4 @@ Homework for Montreal Polytechnique's class *LOG6308: Recommendation Systems* pa
 - Cross Validation
 
 **ADDITIONAL INFOS:**
-- Made in equal collaboration with Élisa Pigeon
+- Made in equal collaboration with Élisa Pigeon (https://github.com/elpigPolymtl)
