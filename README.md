@@ -1,4 +1,4 @@
-# Basic user-user and item-item collaborative filtering systems
+# Basic collaborative filtering systems
 
 
 **CONTEXT**:
